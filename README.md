@@ -1,4 +1,5 @@
 ![logo](https://github.com/sonkar7khusboo-spec/sonkar7khusboo-spec/blob/main/githup_image.jpg)
+
 <h1 align="center">Hi 👋, I'm Khushboo Sonkar</h1>
 <h3 align="center">An aspiring Data Analyst from India, passionate about data analysis and insights</h3>
 
@@ -32,17 +33,6 @@
 </a>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonkar7khushboo-spec&show_icons=true&layout=compact&cache_seconds=86400" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=sonkar7khushboo-spec&show_icons=true&cache_seconds=86400" />
-</p>
-
-<p>
-<img src="https://streak-stats.demolab.com/?user=sonkar7khushboo-spec" />
-</p>
 
 
 
