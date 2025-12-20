@@ -22,6 +22,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel/spreadsheets" target="_blank">
+<img src="https://images.sftcdn.net/images/t_app-icon-m/p/bf73fec6-96bf-11e6-b05a-00163ed833e7/2301291402/microsoft-excel-Download-Microsoft-Excel.jpg" width="40" height="40"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -30,6 +33,9 @@
 </a>
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
+<img src="https://play-lh.googleusercontent.com/Fm3QYlDSe36iW-9vCbldCgvyGUOBfVT7zn71r9NPmz0yvlQQU8fMZOZDw-6QXUjaZ9k=w240-h480-rw" width="40" height="40"/>
 </a>
 </p>
 
