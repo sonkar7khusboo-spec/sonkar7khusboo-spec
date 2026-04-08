@@ -1,7 +1,7 @@
 ![logo](https://github.com/sonkar7khusboo-spec/sonkar7khusboo-spec/blob/main/githup_image.jpg)
 
 <h1 align="center">Hi 👋, I'm Khushboo Sonkar</h1>
-<h3 align="center">An aspiring Data Analyst from India, passionate about data analysis and insights</h3>
+<h3 align="center">Data Analyst from India, passionate about data analysis and insights</h3>
 
 <img align="right" width="350" src="https://github.com/user-attachments/assets/03bbb6b6-be6e-4f45-8d01-83ad0ece173d" />
 
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=sonkar7khushboo-spec&label=Profile%20views&color=0e75b6&style=flat" alt="sonkar7khushboo-spec" />
 </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m **Data Analytics**
 - 💼 Experience: **MIS Executive**
 - ⚡ Fun fact: **I enjoy cleaning messy data and uncovering insights that support business decisions.**
 
